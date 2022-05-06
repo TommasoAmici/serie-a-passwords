@@ -26,7 +26,7 @@ var teams = []Team{
 	{Name: "milan", Year: 1899, Others: []string{"acmilan", "milanac", "maldini", "maldini3"}},
 	{Name: "napoli", Year: 1926, Others: []string{"sscnapoli"}, ExcludeBecauseCity: true},
 	{Name: "atalanta", MainNicknames: []string{"dea"}, Year: 1907},
-	{Name: "roma", MainNicknames: []string{"magica"}, Year: 1927, Others: []string{"dajeroma", "asroma", "asroma1927", "laziomerda", "francescototti", "francescototti10"}, ExcludeBecauseCity: true},
+	{Name: "roma", MainNicknames: []string{"magica"}, Year: 1927, Others: []string{"dajeroma", "asroma", "asroma1927", "laziomerda", "totti", "totti10", "francescototti", "francescototti10"}, ExcludeBecauseCity: true},
 	{Name: "lazio", Year: 1900, Others: []string{"26maggio", "sslazio", "lulic71", "romamerda"}},
 	{Name: "fiorentina", MainNicknames: []string{"viola"}, Year: 1926},
 	{Name: "torino", MainNicknames: []string{"toro"}, Year: 1906, ExcludeBecauseCity: true},
